@@ -10,6 +10,11 @@ For this assignment, I reused that code and added more classes, features, and im
 ---
 
 ## Features
+# Account Types
+* Normal Account
+* Student Account (withdraw limit $500)
+* Premium Saving Account (2% cashback on deposit)
+* Business Account (loan support
 
 * Create a bank account with name, secret number, and balance
 * Check balance using secret number
