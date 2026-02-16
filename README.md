@@ -1,4 +1,4 @@
-# 🏦 ATM System Using OOP (Python)
+#  ATM System Using OOP (Python)
 
 ## Description
 
